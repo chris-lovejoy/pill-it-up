@@ -11,3 +11,7 @@ https://www.youtube.com/watch?v=USzFifWB6tk
 
 Devpost submission:
 https://devpost.com/software/isthismypoison
+
+
+Video of us presenting our device:
+https://www.youtube.com/watch?v=xzgWN6i0qoA
